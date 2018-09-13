@@ -1,3 +1,5 @@
+# Overview
+This code was written in response to a coding assignment for a job interview/hiring process.  It is an open ended assignment and is certainly not 'complete'
 # Problem Defintion
 You have been hired by Acme Inc, to design and deliver an algorithm for optimal elevator management.  The company manages elevators in Building X and would like to have the most optimal software that manages 3 competing needs:
 * Minimum wait time for any person requesting an elevator
